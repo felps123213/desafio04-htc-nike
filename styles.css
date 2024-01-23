@@ -1,0 +1,73 @@
+*{
+    font-family: 'Roboto', sans-serif;
+}
+
+.body{
+    width: 1440px;
+    height: 356px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.mensage-box{
+    width: 591px;
+    height: 161px;
+    display: flex;
+    align-items: center;
+    background-color: #fff;
+    border-width: 1px;
+    border-style: solid;
+    border-color: #DADDDF;
+}
+
+.info-nike{
+    display: flex;
+    align-items: center;
+    margin-bottom: 5px;
+    margin-top: 17px;
+}
+
+.owner-icon{
+    margin: 17 12 96 17;
+}
+
+.owner-name{
+    color: #0F1419;
+    font-weight: 700;
+    font-size: 15px;
+}
+
+.verified-icon{
+    width: 15px;
+    height: 15px;
+    margin-left: 3px;
+}
+
+.tag-owner{
+    color: #536471;
+    font-weight: 400;
+    font-size: 15px;
+    margin-left: 6px;
+}
+
+.date{
+    color: #536471;
+    font-weight: 400;
+    font-size: 15px;
+    margin-left: 20px;
+}
+
+.comentary{
+    line-height: 17.58px;
+    font-size: 15px;
+    font-weight: 400;
+    color: #0F1419;
+}
+
+.wrapper-button{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 15px;
+    margin-bottom: 17px;
+}
